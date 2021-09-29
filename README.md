@@ -1,6 +1,6 @@
 # tugasmpsi
 tugas_git_branch
-mpsi
 
-mpsi git branch
-ohdwoho
+vers 1
+mpsi
+tugas
